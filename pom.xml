@@ -7,6 +7,7 @@
     <groupId>com.lk4j</groupId>
     <artifactId>chapter1</artifactId>
     <version>1.0.0</version>
+    <packaging>war</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,7 +15,6 @@
 
 
 
-    <packaging>war</packaging>
 
     <dependencies>
         <dependency>
